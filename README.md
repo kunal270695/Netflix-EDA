@@ -75,10 +75,10 @@ Here are some of the highlights
 <img width="886" alt="Screenshot 2025-02-25 at 11 22 02 PM" src="https://github.com/user-attachments/assets/5c28fd91-9b41-4f67-90da-9c1e35ea63b1" />
 
 **Most popular ratings of movies and tv shows**
-<img width="904" alt="Screenshot 2025-02-25 at 11 22 42 PM" src="https://github.com/user-attachments/assets/398830f6-f72b-40f9-8492-c7580d54c74e" />
+<img width="849" alt="Screenshot 2025-02-26 at 9 28 47 AM" src="https://github.com/user-attachments/assets/021de0aa-cfcd-4b31-9b22-f1040cf56700" />
 
 **Top countries with highest titles production**
-<img width="937" alt="Screenshot 2025-02-25 at 11 24 06 PM" src="https://github.com/user-attachments/assets/68dbb405-aeec-44ed-858c-2c8062eee7be" />
+<img width="813" alt="Screenshot 2025-02-26 at 9 33 18 AM" src="https://github.com/user-attachments/assets/d94ffbc7-a402-4ab0-9e2e-6d5229343b38" />
 
 **Top 10 countries by number of movies** 
 <img width="895" alt="Screenshot 2025-02-25 at 11 24 51 PM" src="https://github.com/user-attachments/assets/ef1dfc0d-da73-40c7-af2d-8068115673dd" />

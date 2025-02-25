@@ -50,6 +50,9 @@ Here are some of the key insights from the analysis:
 **Titles Release** 
 * In 2019, highest number of movies were released then TV Shows explaining the popularity of the movies among the audiences.
 
+## Python file
+[Code and output](https://github.com/kunal270695/Netflix-EDA/blob/main/netflix-EDA.ipynb)
+
 ## Tools and Technologies Used 🛠️
 * Python: For data analysis and visualization.
 * Pandas: For data manipulation and cleaning.
